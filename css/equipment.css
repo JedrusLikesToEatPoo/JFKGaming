@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'carbontyperegular';
+    src: url('fonts/carbontype-webfont.woff2') format('woff2'),
+         url('fonts/carbontype-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	background-color: rgb(236, 222, 183);
+	background-image: url("");
+	background-repeat: repeat;
+	margin: 0px 0px;
+	font-family: 'carbontyperegular', Arial, sans-serif;
+}
+
+.doc {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.op {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 90px;
+	left: 10px;
+}
+
+.g1 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 170px;
+	left: 60px;
+}
+
+.g2 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 215px;
+	left: 60px;
+}
+
+.g3 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 260px;
+	left: 60px;
+}
+
+.g4 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 305px;
+	left: 60px;
+}
+
+.g5 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 350px;
+	left: 60px;
+}
+
+.g6 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 395px;
+	left: 60px;
+}
+
+.g7 {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 440px;
+	left: 60px;
+}
+
+.back {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 520px;
+	left: 10px;
+}
+
+.bottom {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	font-size: 10px
+}

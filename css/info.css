@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'carbontyperegular';
+    src: url('fonts/carbontype-webfont.woff2') format('woff2'),
+         url('fonts/carbontype-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	background-color: rgb(236, 222, 183);
+	background-image: url("");
+	background-repeat: repeat;
+	margin: 0px 0px;
+	font-family: 'carbontyperegular', Arial, sans-serif;
+}
+
+.doc {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.op {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 90px;
+	left: 10px;
+}
+
+.name {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 170px;
+	left: 60px;
+}
+
+.age {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 215px;
+	left: 60px;
+}
+
+.dob {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 260px;
+	left: 60px;
+}
+
+.height {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 305px;
+	left: 60px;
+}
+
+.back {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	top: 385px;
+	left: 10px;
+}
+
+.bottom {
+	color: rgba(50, 50, 50, 1);
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	font-size: 10px
+}
